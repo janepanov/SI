@@ -1,1 +1,2 @@
 Jane adds a new file todo.txt
+Jane modifies the file todo.txt and commits directly from Github
